@@ -1,1 +1,1 @@
-Atividades e pesquisas relacionadas com banco de dados
+Atividades e pesquisas para o estudo de banco de dados
